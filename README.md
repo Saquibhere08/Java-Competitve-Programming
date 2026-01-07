@@ -20,62 +20,6 @@ This repository is a structured guide to **Data Structures & Algorithms (DSA)** 
 
 ---
 
-## 📂 Repository Structure
-
-```
-DSA-with-CP-in-Java/
-│
-├── Basics/
-│   ├── InputOutput.java
-│   ├── Loops.java
-│   └── TimeComplexity.md
-│
-├── Arrays/
-│   ├── OneDArray.java
-│   ├── TwoDArray.java
-│   └── ArrayProblems.java
-│
-├── Strings/
-│   └── StringProblems.java
-│
-├── Recursion/
-│   └── RecursionBasics.java
-│
-├── Sorting/
-│   ├── BubbleSort.java
-│   ├── SelectionSort.java
-│   └── MergeSort.java
-│
-├── Searching/
-│   ├── LinearSearch.java
-│   └── BinarySearch.java
-│
-├── Stack/
-│   └── StackImplementation.java
-│
-├── Queue/
-│   └── QueueImplementation.java
-│
-├── LinkedList/
-│   └── LinkedListBasics.java
-│
-├── Trees/
-│   └── BinaryTree.java
-│
-├── Graphs/
-│   └── GraphBasics.java
-│
-├── DP/
-│   └── DynamicProgramming.java
-│
-├── CP-Problems/
-│   └── PracticeProblems.java
-│
-└── README.md
-```
-
----
-
 ## 📘 Topics Covered
 
 ### 🔹 Basics
@@ -105,17 +49,6 @@ DSA-with-CP-in-Java/
 - Mathematical Problems
 - CP-style problem solving
 - Optimized solutions
-
----
-
-## 🚀 How to Use This Repository
-1. Start with the **Basics** folder
-2. Learn one **DSA topic at a time**
-3. Run Java files and understand the logic
-4. Practice problems after each topic
-5. Revise and optimize solutions
-
----
 
 ## 📈 Learning Roadmap
 ```
